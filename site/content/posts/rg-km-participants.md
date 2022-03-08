@@ -8,4 +8,4 @@ draft: false
 - Pahlevi Fikri Auliya (levi) - Computer Science NTU - <fikriauliya.github.io>
 - Muhammad Farhan Syahputra Harahap (Farhan) - Metallurgical Engineering
 - Elroy Pedro Kameo - Universitas Kristen Satya Wacana - <elroypedrokameo.github.io>
-- Muhammad Ilham Rasyid - Universitas Gunadarma - Ilhamrasyid489.github.io
+- Muhammad Ilham Rasyid - Universitas Gunadarma - <Ilhamrasyid489.github.io>
